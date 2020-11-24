@@ -1,0 +1,40 @@
+name: ci
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: ${{ matrix.kind }} ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macOS-latest, ubuntu-latest, windows-latest]
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+
+      - name: Install deno
+        uses: denolib/setup-deno@master
+
+      - name: Log versions
+        run: |
+          deno --version
+      - name: Run deno fmt
+        run: deno fmt --check
+
+      - name: Run deno lint
+        run: deno lint --unstable
+
+      - name: Run deno test
+        run: deno test -A --unstable --import-map=import_map.json --coverage
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: |
+          startsWith(github.repository, 'justjavac') && 
+          startsWith(github.ref, 'refs/tags/')
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          draft: true
