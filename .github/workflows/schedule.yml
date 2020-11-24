@@ -17,5 +17,11 @@ jobs:
 
       - name: Run deno
         run: |
-          deno --version
+          git config --local user.email "justjavac@gmail.com"
+          git config --local user.name "迷渡"
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
           deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json mod.ts
+          git add .
+          git commit -m "update by github action"
+          git push
