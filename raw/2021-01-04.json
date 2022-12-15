@@ -68,7 +68,10 @@
     "url": "/weibo?q=%E5%BE%AE%E5%8D%9A%E6%92%AD%E6%8A%A5&Refer=top",
     "title": "微博播报"
   },
-  { "url": "/weibo?q=%E5%8D%B0%E8%8A%B1%E7%A8%8E&Refer=top", "title": "印花税" },
+  {
+    "url": "/weibo?q=%E5%8D%B0%E8%8A%B1%E7%A8%8E&Refer=top",
+    "title": "印花税"
+  },
   {
     "url": "/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%BE%AE%E5%8D%9A%E7%AE%80%E4%BB%8B%23&Refer=top",
     "title": "林更新微博简介"
@@ -147,7 +150,10 @@
     "url": "/weibo?q=%23%E8%9B%8B%E7%B3%95%E8%A3%B1%E8%8A%B1%E4%B9%9F%E5%A4%AA%E7%8B%82%E9%87%8E%E4%BA%86%23&Refer=top",
     "title": "蛋糕裱花也太狂野了"
   },
-  { "url": "/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E&Refer=top", "title": "郭敬明" },
+  {
+    "url": "/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E&Refer=top",
+    "title": "郭敬明"
+  },
   {
     "url": "/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top",
     "title": "李佳琦直播"
@@ -522,7 +528,10 @@
     "url": "/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AD%A6%E5%AF%9F%E9%80%A0%E5%9E%8B%23&Refer=top",
     "title": "张艺兴警察造型"
   },
-  { "url": "/weibo?q=%E6%99%B4%E9%9B%85%E9%9B%86&Refer=top", "title": "晴雅集" },
+  {
+    "url": "/weibo?q=%E6%99%B4%E9%9B%85%E9%9B%86&Refer=top",
+    "title": "晴雅集"
+  },
   {
     "url": "/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E6%8A%80%23&Refer=top",
     "title": "刘诗诗演技"
@@ -668,7 +677,10 @@
     "url": "/weibo?q=%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%BF%E5%A4%9A%E5%AE%B6%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%B7%B2%E8%B6%85%E8%BF%87%E6%9E%81%E9%99%90&Refer=top",
     "title": "美国洛杉矶县多家殡仪馆已超过极限"
   },
-  { "url": "/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE&Refer=top", "title": "特朗普" },
+  {
+    "url": "/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE&Refer=top",
+    "title": "特朗普"
+  },
   { "url": "/weibo?q=%E6%9D%8E%E6%A2%A6&Refer=top", "title": "李梦" },
   {
     "url": "/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%A8%B1%E4%B9%90%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%23&Refer=top",
@@ -963,7 +975,10 @@
     "url": "/weibo?q=%23%E5%BA%93%E9%87%8C%E5%8D%95%E8%8A%8221%E5%88%86%23&Refer=top",
     "title": "库里单节21分"
   },
-  { "url": "/weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81&Refer=top", "title": "比特币" },
+  {
+    "url": "/weibo?q=%E6%AF%94%E7%89%B9%E5%B8%81&Refer=top",
+    "title": "比特币"
+  },
   {
     "url": "/weibo?q=%23%E8%89%BE%E8%8A%AC%E7%A7%B0%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E8%B0%83%E6%9F%A5%E4%BB%853%E5%88%86%E9%92%9F%23&Refer=top",
     "title": "艾芬称爱尔眼科调查仅3分钟"

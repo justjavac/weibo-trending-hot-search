@@ -67,7 +67,10 @@
     "url": "/weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E5%A4%AA%E6%9C%89%E8%B6%A3%E4%BA%86%23&Refer=top",
     "title": "汪小菲太有趣了"
   },
-  { "url": "/weibo?q=%E5%BC%A0%E9%A2%9C%E9%BD%90&Refer=top", "title": "张颜齐" },
+  {
+    "url": "/weibo?q=%E5%BC%A0%E9%A2%9C%E9%BD%90&Refer=top",
+    "title": "张颜齐"
+  },
   {
     "url": "/weibo?q=%23%E9%82%93%E4%BC%A6%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%9C%89%E5%A4%9A%E4%B8%A5%E8%B0%A8%23&Refer=top",
     "title": "邓伦发微博有多严谨"

@@ -267,7 +267,10 @@
     "url": "/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%86%B0%E5%B8%98%E6%B4%9E%E5%8D%B3%E8%A7%86%E6%84%9F%23&Refer=top",
     "title": "哈尔滨一小区冰帘洞即视感"
   },
-  { "url": "/weibo?q=%23%E5%8E%9F%E7%A5%9E2.3%23&Refer=top", "title": "原神2.3" },
+  {
+    "url": "/weibo?q=%23%E5%8E%9F%E7%A5%9E2.3%23&Refer=top",
+    "title": "原神2.3"
+  },
   {
     "url": "/weibo?q=%232%E5%B2%81%E8%90%8C%E5%A8%83%E5%AE%9E%E5%8A%9B%E6%BC%94%E7%BB%8E%E6%8C%96%E5%A2%99%E8%84%9A%23&Refer=top",
     "title": "2岁萌娃实力演绎挖墙脚"

@@ -287,7 +287,10 @@
     "url": "/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%A8%E8%BF%90%E4%BC%9A%E5%B7%B2%E7%BB%8F62%E5%B2%81%E4%BA%86%23&Refer=top",
     "title": "原来全运会已经62岁了"
   },
-  { "url": "/weibo?q=%E5%85%A8%E8%BF%90%E4%BC%9A&Refer=top", "title": "全运会" },
+  {
+    "url": "/weibo?q=%E5%85%A8%E8%BF%90%E4%BC%9A&Refer=top",
+    "title": "全运会"
+  },
   {
     "url": "/weibo?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B5%9B%E7%A8%8B&Refer=top",
     "title": "全运会赛程"

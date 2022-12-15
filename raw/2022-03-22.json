@@ -51,7 +51,10 @@
     "url": "/weibo?q=%23%E9%A3%9E%E6%9C%BA%E6%80%A5%E5%89%A7%E4%B8%8B%E9%99%8D%E6%9C%BA%E7%BB%84%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%9B%9E%E5%A4%8D%23&Refer=top",
     "title": "飞机急剧下降机组没有任何回复"
   },
-  { "url": "/weibo?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B&Refer=top", "title": "海贼王" },
+  {
+    "url": "/weibo?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B&Refer=top",
+    "title": "海贼王"
+  },
   {
     "url": "/weibo?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98&Refer=top",
     "title": "咒术回战"
@@ -196,7 +199,10 @@
     "url": "/weibo?q=%23%E7%88%B1%E8%87%AA%E5%B7%B1%E6%89%8D%E6%98%AF%E6%9C%80%E9%AB%98%E7%BA%A7%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top",
     "title": "爱自己才是最高级的浪漫"
   },
-  { "url": "/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top", "title": "阴阳师" },
+  {
+    "url": "/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top",
+    "title": "阴阳师"
+  },
   {
     "url": "/weibo?q=%23%E6%9E%97%E4%B9%8B%E6%A0%A1%E5%B9%BB%E6%83%B3%E5%92%8C%E9%A1%BE%E9%AD%8F%E6%8E%A5%E5%90%BB%23&Refer=top",
     "title": "林之校幻想和顾魏接吻"

@@ -65,7 +65,10 @@
     "title": "福原爱为国乒颁奖"
   },
   { "url": "/weibo?q=Uzi&Refer=top", "title": "Uzi" },
-  { "url": "/weibo?q=%E4%BA%B2%E7%88%B1%E7%9A%84&Refer=top", "title": "亲爱的" },
+  {
+    "url": "/weibo?q=%E4%BA%B2%E7%88%B1%E7%9A%84&Refer=top",
+    "title": "亲爱的"
+  },
   {
     "url": "/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%91%A8%E4%B9%8B%E5%86%85%E4%B8%A4%E5%BA%A6%E5%B0%81%E7%8E%8B%23&Refer=top",
     "title": "樊振东一周之内两度封王"

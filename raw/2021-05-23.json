@@ -404,7 +404,10 @@
     "url": "/weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%E8%B6%85%E7%87%83MV%E6%96%B0%E5%BE%81%E7%A8%8B%23&Refer=top",
     "title": "东风快递超燃MV新征程"
   },
-  { "url": "/weibo?q=%E7%94%9F%E6%B4%BB%E5%AE%B6&Refer=top", "title": "生活家" },
+  {
+    "url": "/weibo?q=%E7%94%9F%E6%B4%BB%E5%AE%B6&Refer=top",
+    "title": "生活家"
+  },
   {
     "url": "/weibo?q=%23%E5%90%B4%E5%AD%9F%E8%B6%85%E9%99%A2%E5%A3%AB%E8%BF%BD%E6%82%BC%E4%BC%9A%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C%23&Refer=top",
     "title": "吴孟超院士追悼会今日举行"
@@ -831,5 +834,8 @@
     "url": "/weibo?q=%E9%87%91%E6%9B%B2%E9%9D%92%E6%98%A5&Refer=top",
     "title": "金曲青春"
   },
-  { "url": "/weibo?q=%234AM%E5%90%83%E9%B8%A1%23&Refer=top", "title": "4AM吃鸡" }
+  {
+    "url": "/weibo?q=%234AM%E5%90%83%E9%B8%A1%23&Refer=top",
+    "title": "4AM吃鸡"
+  }
 ]

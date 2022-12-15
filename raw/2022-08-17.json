@@ -23,7 +23,10 @@
     "url": "/weibo?q=%23%E6%9C%88%E5%8D%87%E6%B2%A7%E6%B5%B7%E5%A4%A7%E7%BB%93%E5%B1%80%E7%82%B9%E6%98%A0%E7%A4%BC%23&Refer=top",
     "title": "月升沧海大结局点映礼"
   },
-  { "url": "/weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99&Refer=top", "title": "张大仙" },
+  {
+    "url": "/weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99&Refer=top",
+    "title": "张大仙"
+  },
   {
     "url": "/weibo?q=%23%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%92%E7%BB%9D%E5%90%83%E7%94%9F%E9%B8%A1%E8%9B%8B%E8%A2%AB%E8%BE%9E%E9%80%80%23&Refer=top",
     "title": "实习生拒绝吃生鸡蛋被辞退"

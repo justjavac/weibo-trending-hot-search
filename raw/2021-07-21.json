@@ -519,7 +519,10 @@
     "url": "/weibo?q=%E9%83%91%E5%B7%9E%E9%9B%B7%E7%94%B5%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6&Refer=top",
     "title": "郑州雷电黄色预警"
   },
-  { "url": "/weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top", "title": "奥运会" },
+  {
+    "url": "/weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top",
+    "title": "奥运会"
+  },
   {
     "url": "/weibo?q=%232032%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%BB%E5%8A%9E%E5%9C%B0%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%B8%83%E9%87%8C%E6%96%AF%E7%8F%AD%23&Refer=top",
     "title": "2032年奥运会主办地澳大利亚布里斯班"
@@ -1320,7 +1323,10 @@
     "title": "决战东京奥运"
   },
   { "url": "/weibo?q=%E4%B8%AD%E4%BC%8F&Refer=top", "title": "中伏" },
-  { "url": "/weibo?q=%E9%87%91%E6%B0%B4%E6%B2%B3&Refer=top", "title": "金水河" },
+  {
+    "url": "/weibo?q=%E9%87%91%E6%B0%B4%E6%B2%B3&Refer=top",
+    "title": "金水河"
+  },
   {
     "url": "/weibo?q=%E6%B2%B3%E5%8D%97%E5%9C%B0%E9%93%81&Refer=top",
     "title": "河南地铁"

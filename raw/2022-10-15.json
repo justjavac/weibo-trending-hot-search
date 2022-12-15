@@ -1037,7 +1037,10 @@
     "url": "/weibo?q=%23%E5%BA%9F%E7%9F%BF%E4%BA%95%E5%8F%91%E7%8E%B0140%E5%B9%B4%E5%89%8D%E7%89%9B%E4%BB%94%E8%A3%A4%E6%8B%8D%E5%87%BA62%E4%B8%87%23&t=31&band_rank=50&Refer=top",
     "title": "废矿井发现140年前牛仔裤拍出62万"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E9%9D%92%E7%BB%BF%E5%B1%B1%E6%B0%B4%E5%8B%BE%E7%94%BB%E5%87%BA%E7%A5%96%E5%9B%BD%E5%A3%AE%E4%B8%BD%E5%B1%B1%E6%B2%B3%23&t=31&band_rank=1&Refer=top",
     "title": "青绿山水勾画出祖国壮丽山河"

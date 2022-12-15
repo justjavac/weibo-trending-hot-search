@@ -71,7 +71,10 @@
     "url": "/weibo?q=%23%E7%88%B6%E4%BA%B25%E5%85%83%E5%8D%88%E9%A4%90%E6%8B%8D%E6%91%84%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&Refer=top",
     "title": "父亲5元午餐拍摄者回应走红"
   },
-  { "url": "/weibo?q=%E9%9D%A2%E5%8C%85%E7%8B%97&Refer=top", "title": "面包狗" },
+  {
+    "url": "/weibo?q=%E9%9D%A2%E5%8C%85%E7%8B%97&Refer=top",
+    "title": "面包狗"
+  },
   {
     "url": "/weibo?q=%23%E9%93%85%E6%9A%B4%E9%9C%B2%E8%AE%A9%E5%8D%8A%E6%95%B0%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%99%BA%E5%95%86%E4%B8%8B%E9%99%8D%23&Refer=top",
     "title": "铅暴露让半数美国人智商下降"
@@ -193,7 +196,10 @@
     "url": "/weibo?q=%23%E4%BF%84%E6%96%B9%E6%B2%A1%E6%9C%89%E8%AE%A1%E5%88%92%E6%94%BB%E5%87%BB%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E5%8C%85%E6%8B%AC%E4%B9%8C%E5%85%8B%E5%85%B0%23&Refer=top",
     "title": "俄方没有计划攻击其他国家包括乌克兰"
   },
-  { "url": "/weibo?q=%E4%B8%AD%E6%A6%82%E8%82%A1&Refer=top", "title": "中概股" },
+  {
+    "url": "/weibo?q=%E4%B8%AD%E6%A6%82%E8%82%A1&Refer=top",
+    "title": "中概股"
+  },
   {
     "url": "/weibo?q=%23%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8F%AA%E6%9C%89%E9%82%93%E4%BC%A6%E5%BD%93%E5%B0%91%E7%88%B7%E6%89%8D%E8%83%BD%E8%BF%99%E4%B9%88%E6%90%9E%E7%AC%91%23&Refer=top",
     "title": "是不是只有邓伦当少爷才能这么搞笑"

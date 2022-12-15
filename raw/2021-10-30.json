@@ -312,7 +312,10 @@
     "url": "/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%86%E5%90%AF%E5%8A%A8%E7%AC%AC%E4%B8%80%E8%BD%AE%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top",
     "title": "哈尔滨将启动第一轮全员核酸检测"
   },
-  { "url": "/weibo?q=%E8%91%9B%E4%BB%99%E5%B1%B1&Refer=top", "title": "葛仙山" },
+  {
+    "url": "/weibo?q=%E8%91%9B%E4%BB%99%E5%B1%B1&Refer=top",
+    "title": "葛仙山"
+  },
   {
     "url": "/weibo?q=2021%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B&Refer=top",
     "title": "2021全球总决赛"

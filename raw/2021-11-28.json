@@ -404,7 +404,10 @@
     "url": "/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A5%B3%E5%8F%8B%E8%A7%86%E8%A7%92%E4%BB%A3%E5%85%A5%E6%84%9F%23&Refer=top",
     "title": "易烊千玺女友视角代入感"
   },
-  { "url": "/weibo?q=%E7%BC%96%E8%80%85%E6%8C%89&Refer=top", "title": "编者按" },
+  {
+    "url": "/weibo?q=%E7%BC%96%E8%80%85%E6%8C%89&Refer=top",
+    "title": "编者按"
+  },
   {
     "url": "/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E7%A4%BE%E5%8C%BA%E5%8D%87%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top",
     "title": "内蒙古一社区升为高风险"

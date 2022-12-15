@@ -433,7 +433,10 @@
     "url": "/weibo?q=%23%E9%81%87%E5%88%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E8%A6%81%E5%8B%87%E6%95%A2%E8%A1%A8%E7%99%BD%E5%90%97%23&Refer=top",
     "title": "遇到喜欢的人要勇敢表白吗"
   },
-  { "url": "/weibo?q=%23YG%E7%9A%845%E6%9C%88%23&Refer=top", "title": "YG的5月" },
+  {
+    "url": "/weibo?q=%23YG%E7%9A%845%E6%9C%88%23&Refer=top",
+    "title": "YG的5月"
+  },
   {
     "url": "/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%A4%B4%E5%A4%AA%E9%87%8D%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top",
     "title": "熊猫头太重是什么体验"

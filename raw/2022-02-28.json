@@ -279,7 +279,10 @@
     "url": "/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E4%BA%BA%E8%B7%9F%E8%B8%AA%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top",
     "title": "女生被人跟踪该怎么办"
   },
-  { "url": "/weibo?q=%E8%8D%A3%E8%80%80Magic4&Refer=top", "title": "荣耀Magic4" },
+  {
+    "url": "/weibo?q=%E8%8D%A3%E8%80%80Magic4&Refer=top",
+    "title": "荣耀Magic4"
+  },
   {
     "url": "/weibo?q=%23%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA%E7%BD%97%E6%8B%89%E7%9A%84%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95%23&Refer=top",
     "title": "半熟恋人罗拉的生活记录"
@@ -1380,7 +1383,10 @@
     "url": "/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5%E5%8F%91%E6%96%87%E8%AF%84%E7%8E%8B%E7%89%8C%E9%83%A8%E9%98%9F%23&Refer=top",
     "title": "解放军报发文评王牌部队"
   },
-  { "url": "/weibo?q=%E5%AB%A3%E8%AF%AD%E8%B5%8B&Refer=top", "title": "嫣语赋" },
+  {
+    "url": "/weibo?q=%E5%AB%A3%E8%AF%AD%E8%B5%8B&Refer=top",
+    "title": "嫣语赋"
+  },
   {
     "url": "/weibo?q=%23%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%BC%A0%E8%AF%B4%E9%98%BF%E5%B0%94%E5%AE%99%E6%96%AF%23&Refer=top",
     "title": "宝可梦传说阿尔宙斯"

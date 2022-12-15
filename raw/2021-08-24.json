@@ -828,7 +828,10 @@
     "url": "/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&Refer=top",
     "title": "英雄联盟"
   },
-  { "url": "/weibo?q=%E5%85%A8%E8%BF%90%E4%BC%9A&Refer=top", "title": "全运会" },
+  {
+    "url": "/weibo?q=%E5%85%A8%E8%BF%90%E4%BC%9A&Refer=top",
+    "title": "全运会"
+  },
   {
     "url": "/weibo?q=%23%E5%90%AC%E5%BC%A0%E6%9D%B0%E7%9A%84%E6%AD%8C%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top",
     "title": "听张杰的歌破防了"

@@ -67,7 +67,10 @@
     "url": "/weibo?q=%E8%80%81%E9%82%AA%E5%90%90%E6%A7%BD%E5%BD%93%E5%AE%B6%E4%B8%BB%E6%AF%8D&Refer=top",
     "title": "老邪吐槽当家主母"
   },
-  { "url": "/weibo?q=%E5%85%83%E5%AE%87%E5%AE%99&Refer=top", "title": "元宇宙" },
+  {
+    "url": "/weibo?q=%E5%85%83%E5%AE%87%E5%AE%99&Refer=top",
+    "title": "元宇宙"
+  },
   {
     "url": "/weibo?q=%23%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%85%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E5%B8%A6%E8%BF%9B%E5%AE%B6%23&Refer=top",
     "title": "快递包装尽量不要带进家"

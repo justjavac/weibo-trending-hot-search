@@ -392,7 +392,10 @@
     "url": "/weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E7%94%98%E6%9C%9B%E6%98%9F%E5%A4%96%E6%BB%A9%E6%95%A3%E6%AD%A5%23&Refer=top",
     "title": "利路修甘望星外滩散步"
   },
-  { "url": "/weibo?q=%E7%94%9F%E6%B4%BB%E5%AE%B6&Refer=top", "title": "生活家" },
+  {
+    "url": "/weibo?q=%E7%94%9F%E6%B4%BB%E5%AE%B6&Refer=top",
+    "title": "生活家"
+  },
   {
     "url": "/weibo?q=%232021%E5%9B%BD%E8%80%83%E5%B0%86%E8%A1%A5%E5%BD%95%E8%BF%912000%E4%BA%BA%23&Refer=top",
     "title": "2021国考将补录近2000人"

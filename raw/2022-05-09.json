@@ -411,7 +411,10 @@
     "url": "/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B5%B7%E8%AF%89%E9%9C%B9%E9%9B%B3%E5%A0%A1%23&Refer=top",
     "title": "易烊千玺起诉霹雳堡"
   },
-  { "url": "/weibo?q=%23TXT%E6%96%B0%E6%AD%8C%23&Refer=top", "title": "TXT新歌" },
+  {
+    "url": "/weibo?q=%23TXT%E6%96%B0%E6%AD%8C%23&Refer=top",
+    "title": "TXT新歌"
+  },
   {
     "url": "/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0cos%E5%A4%A7%E8%B5%8F%23&Refer=top",
     "title": "甄嬛传cos大赏"

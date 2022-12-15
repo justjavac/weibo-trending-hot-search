@@ -1300,7 +1300,10 @@
     "url": "/weibo?q=%E5%94%90%E5%B1%B1%E8%B7%AF%E5%8D%97%E5%8C%BA2.3%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top",
     "title": "唐山路南区2.3级地震"
   },
-  { "url": "/weibo?q=%E4%BB%98%E5%B0%BE%E6%AC%BE&Refer=top", "title": "付尾款" },
+  {
+    "url": "/weibo?q=%E4%BB%98%E5%B0%BE%E6%AC%BE&Refer=top",
+    "title": "付尾款"
+  },
   {
     "url": "/weibo?q=%23EDG%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E7%9B%B2%E5%83%A7%23&Refer=top",
     "title": "EDG为什么不ban盲僧"

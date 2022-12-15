@@ -133,7 +133,10 @@
     "url": "/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%B4%AB%E9%87%91%E6%B8%AF%E6%A0%A1%E5%8C%BA%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%23&Refer=top",
     "title": "浙大紫金港校区全员核酸"
   },
-  { "url": "/weibo?q=%E6%84%9F%E6%81%A9%E8%8A%82&Refer=top", "title": "感恩节" },
+  {
+    "url": "/weibo?q=%E6%84%9F%E6%81%A9%E8%8A%82&Refer=top",
+    "title": "感恩节"
+  },
   {
     "url": "/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%AE%A4%E7%9C%9F%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%A0%B7%E5%AD%90%E5%A5%BD%E8%BF%B7%E4%BA%BA%23&Refer=top",
     "title": "李现认真工作的样子好迷人"

@@ -949,7 +949,10 @@
     "url": "/weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E35%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top",
     "title": "31省区市新增35例无症状"
   },
-  { "url": "/weibo?q=%E5%85%89%E6%A3%8D%E8%8A%82&Refer=top", "title": "光棍节" },
+  {
+    "url": "/weibo?q=%E5%85%89%E6%A3%8D%E8%8A%82&Refer=top",
+    "title": "光棍节"
+  },
   {
     "url": "/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%99%BB%E8%AE%B0%E5%99%A8%E5%AE%98%E6%8D%90%E7%8C%AE%E7%BA%AA%E5%BF%B5%E7%BB%93%E5%A9%9A25%E5%91%A8%E5%B9%B4%23&Refer=top",
     "title": "夫妻登记器官捐献纪念结婚25周年"
@@ -1155,7 +1158,10 @@
     "url": "/weibo?q=%23%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E9%83%91%E5%B7%9E%E7%B4%AF%E8%AE%A1%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B50%E4%BE%8B%23&Refer=top",
     "title": "本轮疫情郑州累计本土病例50例"
   },
-  { "url": "/weibo?q=%E8%B4%AD%E7%89%A9%E8%BD%A6&Refer=top", "title": "购物车" },
+  {
+    "url": "/weibo?q=%E8%B4%AD%E7%89%A9%E8%BD%A6&Refer=top",
+    "title": "购物车"
+  },
   {
     "url": "/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%BD%9C%E8%89%87%E6%9D%90%E6%96%99%E6%B5%8B%E8%AF%95%E9%80%A0%E5%81%8732%E5%B9%B4%23&Refer=top",
     "title": "美国潜艇材料测试造假32年"
@@ -1264,7 +1270,10 @@
     "url": "/weibo?q=%23AG%E8%B6%85%E7%8E%A9%E4%BC%9A%E6%9C%88%E5%85%89%23&Refer=top",
     "title": "AG超玩会月光"
   },
-  { "url": "/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80&Refer=top", "title": "双十一" },
+  {
+    "url": "/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80&Refer=top",
+    "title": "双十一"
+  },
   {
     "url": "/weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E8%89%BA%E4%BA%BA%E6%9C%89%E5%A4%9A%E5%85%A8%E8%83%BD%23&Refer=top",
     "title": "大湾区艺人有多全能"

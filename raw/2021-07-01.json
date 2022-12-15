@@ -199,7 +199,10 @@
     "url": "/weibo?q=%23%E8%AD%A6%E5%8C%BB%E6%B0%91%E5%9C%B0%E9%93%81%E8%81%94%E6%89%8B%E6%8E%A5%E7%94%9F%E5%AE%9D%E5%AE%9D%23&Refer=top",
     "title": "警医民地铁联手接生宝宝"
   },
-  { "url": "/weibo?q=%E9%9D%A9%E5%91%BD%E8%80%85&Refer=top", "title": "革命者" },
+  {
+    "url": "/weibo?q=%E9%9D%A9%E5%91%BD%E8%80%85&Refer=top",
+    "title": "革命者"
+  },
   {
     "url": "/weibo?q=%23%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E9%87%8D%E7%A3%85%E5%BE%AE%E8%A7%86%E9%A2%91%E7%90%86%E6%83%B3%23&Refer=new_time",
     "title": "建党百年重磅微视频理想"
@@ -756,7 +759,10 @@
     "url": "/weibo?q=%23%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%E4%B8%8D%E5%8F%98%E7%9A%84%E7%90%86%E6%83%B3%23&Refer=top",
     "title": "穿越百年不变的理想"
   },
-  { "url": "/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top", "title": "欧洲杯" },
+  {
+    "url": "/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top",
+    "title": "欧洲杯"
+  },
   {
     "url": "/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%9B%BD%E6%97%97%E7%BA%A2%E6%9F%93%E6%96%99%23&Refer=top",
     "title": "新中国第一份国旗红染料"

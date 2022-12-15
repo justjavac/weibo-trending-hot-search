@@ -1084,7 +1084,10 @@
     "url": "/weibo?q=%23%E7%88%B6%E4%BA%B2%E9%80%81%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%BD%AC%E8%BA%AB%E6%8A%B9%E6%B3%AA%23&Refer=top",
     "title": "父亲送女儿上大学转身抹泪"
   },
-  { "url": "/weibo?q=C%E7%BD%97%E8%BF%9B%E7%90%83&Refer=top", "title": "C罗进球" },
+  {
+    "url": "/weibo?q=C%E7%BD%97%E8%BF%9B%E7%90%83&Refer=top",
+    "title": "C罗进球"
+  },
   {
     "url": "/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E8%AF%B4%E9%80%89%E4%BA%BA%E6%AF%94battle%E6%9B%B4%E7%B4%AF%23&Refer=top",
     "title": "刘宪华说选人比battle更累"

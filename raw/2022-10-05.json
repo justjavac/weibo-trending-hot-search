@@ -383,7 +383,10 @@
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%99%AA%E5%A4%96%E5%85%AC%E4%B8%8B%E8%B1%A1%E6%A3%8B%E7%94%A8%E6%89%8B%E6%9C%BA%E5%BC%80%E5%A4%96%E6%8C%82%23&t=31&band_rank=50&Refer=top",
     "title": "女孩陪外公下象棋用手机开外挂"
   },
-  { "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time", "title": "追光" },
+  {
+    "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time",
+    "title": "追光"
+  },
   {
     "url": "/weibo?q=%23%E9%87%91%E6%94%BF%E5%9F%BA%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top",
     "title": "金政基去世"

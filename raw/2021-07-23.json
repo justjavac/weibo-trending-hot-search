@@ -1378,7 +1378,10 @@
     "url": "/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E8%BF%9E%E5%A4%9C%E9%9B%86%E7%BB%93%E6%94%AF%E6%8F%B4%E5%8D%97%E4%BA%AC%23&Refer=top",
     "title": "江苏医务人员连夜集结支援南京"
   },
-  { "url": "/weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top", "title": "奥运会" },
+  {
+    "url": "/weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top",
+    "title": "奥运会"
+  },
   {
     "url": "/weibo?q=%23%E4%BA%91%E5%8D%977%E6%9C%8822%E6%97%A5%E6%96%B0%E5%A2%9E%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B13%E4%BE%8B%23&Refer=top",
     "title": "云南7月22日新增境外输入确诊病例13例"

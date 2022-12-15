@@ -60,7 +60,10 @@
     "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E7%96%AB%E6%83%85%E5%9C%A8%E5%AE%B6%E4%B8%BE30%E6%96%A4%E7%BA%B8%E5%B7%BE%E5%81%9A%E6%B7%B1%E8%B9%B2%23&Refer=top",
     "title": "男子疫情在家举30斤纸巾做深蹲"
   },
-  { "url": "/weibo?q=%E8%B4%AD%E7%89%A9%E8%BD%A6&Refer=top", "title": "购物车" },
+  {
+    "url": "/weibo?q=%E8%B4%AD%E7%89%A9%E8%BD%A6&Refer=top",
+    "title": "购物车"
+  },
   {
     "url": "/weibo?q=%23XYG%E6%99%8B%E7%BA%A7%E5%AD%A3%E5%90%8E%E8%B5%9BS%E7%BB%84%23&Refer=top",
     "title": "XYG晋级季后赛S组"

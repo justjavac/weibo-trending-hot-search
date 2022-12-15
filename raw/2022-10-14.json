@@ -929,7 +929,10 @@
     "url": "/weibo?q=%2390%E5%90%8E%E5%A7%91%E5%A8%98%E5%87%8C%E6%99%A8%E8%B7%B3%E6%B1%9F%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E7%94%B7%23&t=31&band_rank=50&Refer=top",
     "title": "90后姑娘凌晨跳江救回轻生男"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E5%87%BA%E9%80%83%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E8%BF%AB%E9%99%AA%E8%B7%91%E8%BF%BD%E5%9B%9E%23&t=31&band_rank=1&Refer=top",
     "title": "羊了个羊出逃消防员被迫陪跑追回"

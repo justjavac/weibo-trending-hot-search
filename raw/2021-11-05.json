@@ -971,7 +971,10 @@
     "url": "/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E8%A2%AB%E9%A9%B1%E9%80%90%23&Refer=top",
     "title": "郭艾伦被驱逐"
   },
-  { "url": "/weibo?q=%E5%AF%92%E8%A1%A3%E8%8A%82&Refer=top", "title": "寒衣节" },
+  {
+    "url": "/weibo?q=%E5%AF%92%E8%A1%A3%E8%8A%82&Refer=top",
+    "title": "寒衣节"
+  },
   {
     "url": "/weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E68%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top",
     "title": "31省区市新增68例本土确诊"
