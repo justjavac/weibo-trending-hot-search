@@ -1,7 +1,7 @@
 {
   "tasks": {
     "start": "deno run --allow-net --allow-read --allow-write main.ts",
-    "test": "deno test --allow-net --allow-read --allow-write",
+    "test": "deno test --allow-net --allow-read --allow-write"
   },
   "imports": {
     "std/": "https://deno.land/std@0.79.0/"
