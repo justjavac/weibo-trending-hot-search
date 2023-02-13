@@ -11,8 +11,7 @@ const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
 
 const response = await fetch("https://s.weibo.com/top/summary", {
   headers: {
-    "Cookie":
-      "SUB=_2AkMWJrkXf8NxqwJRmP8SxWjnaY12zwnEieKgekjMJRMxHRl-yj9jqmtbtRB6PaaX-IGp-AjmO6k5cS-OH2X9CayaTzVD",
+    "Cookie": "SUB=_2AkMWJrkXf8NxqwJRmP8SxWjnaY12zwnEieKgekjMJRMxHRl-yj9jqmtbtRB6PaaX-IGp-AjmO6k5cS-OH2X9CayaTzVD",
   },
 });
 

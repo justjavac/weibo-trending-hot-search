@@ -2,12 +2,7 @@
 import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
 import type { Word } from "./types.ts";
 
-import {
-  createArchive,
-  createList,
-  createReadme,
-  mergeWords,
-} from "./utils.ts";
+import { createArchive, createList, createReadme, mergeWords } from "./utils.ts";
 
 Deno.test("mergeWords", function (): void {
   const words1: Word[] = [];
