@@ -20,7 +20,6 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words2, words3),
     [
-      { title: "foo", url: "bar" },
       { title: "foo", url: "hello" },
     ],
   );
@@ -31,7 +30,6 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words3, words5),
     [
-      { title: "foo", url: "hello" },
       { title: "foo", url: "bar" },
       { title: "hello", url: "world" },
     ],
