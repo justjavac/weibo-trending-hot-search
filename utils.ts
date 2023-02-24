@@ -1,15 +1,19 @@
 import type { Word } from "./types.ts";
 
-/** 合并两次热门话题并根据 id 去重 */
+/**
+ * 合并两次热门话题并根据**内容**去重，新的覆盖旧的
+ *
+ * via https://github.com/justjavac/weibo-trending-hot-search/issues/11#issuecomment-1428187183
+ */
 export function mergeWords(
   words: Word[],
   another: Word[],
 ): Word[] {
   const obj: Record<string, string> = {};
   for (const w of words.concat(another)) {
-    obj[w.url] = w.title;
+    obj[w.title] = w.url;
   }
-  return Object.entries(obj).map(([url, title]) => ({
+  return Object.entries(obj).map(([title, url]) => ({
     url,
     title,
   }));
