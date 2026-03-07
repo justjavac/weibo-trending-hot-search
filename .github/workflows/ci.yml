@@ -24,7 +24,7 @@ jobs:
         run: deno fmt --check
 
       - name: Run deno lint
-        run: deno lint --unstable
+        run: deno lint
 
       - name: Run deno test
         run: deno task test

@@ -10,6 +10,7 @@ jobs:
 
     env:
       TZ: Asia/Shanghai
+      WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
 
     steps:
       - name: Clone repository
@@ -27,5 +28,5 @@ jobs:
           deno task start
           deno fmt
           git add .
-          git commit -m "update by github action"
+          git diff --staged --quiet || git commit -m "update by github action"
           git push
