@@ -37,10 +37,12 @@ const result: string = await response.text();
 
 const matches = result.matchAll(regexp);
 
-const words: Word[] = Array.from(matches).map((x) => ({
-  url: x[1],
-  title: x[2],
-}));
+const words: Word[] = Array.from(matches)
+  .map((x) => ({
+    url: x[1],
+    title: x[2].replace(/<[^>]*>/g, "").trim(),
+  }))
+  .filter((w) => /^\/weibo\?q=[^"<>]+$/.test(w.url) && w.title.length > 0);
 
 if (words.length === 0) {
   console.error(
